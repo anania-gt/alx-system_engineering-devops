@@ -1,0 +1,12 @@
+0x00-shell_basics
+0x01-shell_permissions
+aa.txt
+list_of_files.txt
+README.md
+try.txt
+0x00-shell_basics
+0x01-shell_permissions
+bb.txt
+list_of_files.txt
+README.md
+try.txt
